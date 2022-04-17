@@ -1,0 +1,29 @@
+#full{
+    background-color: #FFABD8;
+    height:300vh;
+}
+#title{
+    display: flex;
+    justify-content: center;
+    font-size:x-large;
+    padding-top: 20px;
+}
+#lable{
+    padding-left: 30%;
+    font-size: larger;
+}
+#input{
+    margin-left:32% ;
+    padding-left: 12px;
+    width: 20%;
+}
+#btn{
+    height: 30px;
+    padding: 4px;
+    margin-left: 20px;
+    border-radius: 12px;
+}
+#value{
+    
+   padding: 2px 0 2px 28%;
+}
